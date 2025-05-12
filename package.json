@@ -1,0 +1,31 @@
+{
+  "name": "oss-this",
+  "version": "1.0.0",
+  "description": "Automate common open source repository setup tasks",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "oss-this": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/cli.js"
+  },
+  "keywords": [
+    "open-source",
+    "github",
+    "templates",
+    "automation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.5.0"
+  }
+}
