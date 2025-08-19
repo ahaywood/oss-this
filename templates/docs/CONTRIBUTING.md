@@ -27,7 +27,6 @@ This section guides you through submitting an enhancement suggestion, including 
 ### Pull Requests
 
 * Fill in the required template
-* Do not include issue numbers in the PR title
 * Include screenshots and animated GIFs in your pull request whenever possible
 * Follow the style guidelines of the project
 * Include adequate tests
